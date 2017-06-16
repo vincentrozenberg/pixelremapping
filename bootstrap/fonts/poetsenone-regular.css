@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'PoetsenOneRegular';
+    src: url('poetsenone-regular.eot');
+    src: url('poetsenone-regular.eot') format('embedded-opentype'),
+         url('poetsenone-regular.woff') format('woff'),
+         url('poetsenone-regular.ttf') format('truetype'),
+         url('poetsenone-regular.svg#PoetsenOneRegular') format('svg');
+}

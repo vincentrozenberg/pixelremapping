@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'MonoSocialIconsFont-1.10';
+    src: url('../fonts/MonoSocialIconsFont-1.10.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/MonoSocialIconsFont-1.10.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('../fonts/MonoSocialIconsFont-1.10.woff') format('woff'), /* Modern Browsers */
+        url('../fonts/MonoSocialIconsFont-1.10.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('../fonts/MonoSocialIconsFont-1.10.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'opensans-light';
+    src: url('../fonts/opensans-light.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/opensans-light0.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('../fonts/opensans-light.woff') format('woff'), /* Modern Browsers */
+        url('../fonts/opensans-light.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('../fonts/opensans-light.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'poetsenone-regular';
+    src: url('../fonts/poetsenone-regular.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/poetsenone-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('../fonts/poetsenone-regular.woff') format('woff'), /* Modern Browsers */
+        url('../fonts/poetsenone-regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('../fonts/poetsenone-regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
